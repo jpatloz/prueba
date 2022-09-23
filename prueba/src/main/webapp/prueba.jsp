@@ -7,6 +7,6 @@
 <title>Otra prueba</title>
 </head>
 <body>
-	Pruebassss
+	Prueba
 </body>
 </html>
